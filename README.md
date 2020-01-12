@@ -18,7 +18,11 @@ pip install game
 1. Run `python maze.py` to start the game.
 2. Edit the file `design.py` to customize your maze. Refer to the [Design Guide](#Design-Guide) for further details.
 
-```python
+## Design Guide
+
+Edit the file `design.py` to customize your maze
+
+```
 # Edit the char in the array to build your maze in each level.
 level_1 = [
     "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
@@ -45,8 +49,6 @@ level_1 = [
 ]
 ```
 
-## Design Guide
-
 Each character in the array represents a role or item on that particular level.
 
 | Symbol |      Item      | Usage                                                        |
@@ -61,12 +63,10 @@ Each character in the array represents a role or item on that particular level.
 |  `C`   |      cage      | a trap that camouflage as a treasure. It only appears as cage when a player is very close to it. Deduct 1 health point once player step onto. |
 |  `S`   |     spike      | a trap to deduct 1 health point from player                  |
 
-**Objective**: Help Remy the rat navigate through the maze and find his “friends” while avoiding Chef Skinner from finding Remy. 
-
 **Winning/Losing Condition:**
 
-1. The player loses if Remy losses all his health points.
-2. The player wins if Remy comes across all mazes while avoiding Chef Skinner and the traps.
+1. The player loses once losses all his health points.
+2. The player wins if hecomes across all mazes while avoiding Chef Skinner and the traps.
 
 ## Sample
 
