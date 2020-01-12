@@ -2,7 +2,7 @@
 
 Maze Master is a maze game template built with pygame. It allows user to create their maze design without any coding knowledge.
 
-**[Watch the game play here](https://www.youtube.com/watch?v=OkyE1ssDXnQ).**
+**[Click here to watch the gameplay ](https://www.youtube.com/watch?v=OkyE1ssDXnQ).**
 
 ## Installation
 
