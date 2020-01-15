@@ -10,7 +10,7 @@ Maze Master is a maze game template built with pygame. It allows user to create 
 2. Use the package manager [pip](https://pip.pypa.io/en/stable/) to install [pygame](https://www.pygame.org/news).
 
 ```bash
-pip install game
+pip install pygame
 ```
 
 ## Usage
