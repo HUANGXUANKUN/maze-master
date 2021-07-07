@@ -3,6 +3,16 @@
 Maze Master is a maze game template built with pygame. It allows user to create their maze design without any coding knowledge.
 
 **[Click here to watch the gameplay ](https://www.youtube.com/watch?v=OkyE1ssDXnQ).**
+## Sample
+
+![](images/readme/1.png)
+
+![](images/readme/2.png)
+
+![](images/readme/3.png)
+
+![](images/readme/4.png)
+
 
 ## Installation
 
@@ -67,16 +77,6 @@ Each character in the array represents a role or item on that particular level.
 
 1. The player loses once losses all his health points.
 2. The player wins if hecomes across all mazes while avoiding Chef Skinner and the traps.
-
-## Sample
-
-![](images/readme/1.png)
-
-![](images/readme/2.png)
-
-![](images/readme/3.png)
-
-![](images/readme/4.png)
 
 ## Contributing
 
